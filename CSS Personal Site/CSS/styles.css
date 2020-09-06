@@ -1,0 +1,79 @@
+.cloud1{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.cloud2{
+  width:100px;
+  height:100px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-container{
+  background-color: #b2ebf2;
+  position: relative;
+  padding: 50px;
+  padding-bottom: 0;
+  padding-top: 90px;
+}
+body{
+  display: block;
+  margin: 0;
+  text-align: center;
+}
+.MyProfile{
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+}
+
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+}
+p{
+font-family:'EB Garamond', serif;
+padding-right: 60px;
+padding-left: 60px;
+font-size: 20px;
+padding-bottom: 10px
+}
+.middle-container{
+  background-color: #fffdf9;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.aboutMe{
+  padding-right: 80px;
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+
+hr{
+  width: 120px;
+}
+
+.Hello{
+  color: #7e0cf5;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+}
+h3{
+  color: #7e0cf5;
+    font-size: 25px;
+}
+.bottom-container{
+  background-color: #b2ebf2;
+  padding: 60px;
+}
+.copyright{
+  font-size: 15px;
+}
